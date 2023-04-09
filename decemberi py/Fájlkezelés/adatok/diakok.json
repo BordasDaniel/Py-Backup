@@ -1,0 +1,14 @@
+{
+  "diakok": [
+    {
+          "név": "Kis Péter",
+          "email": ["kiss@suli.hu", "petike@otthoni.hu"],
+          "kollegista": true
+    },
+    {
+          "név": "Nagy Zoé",
+          "email": null,
+          "kollegista": false
+    }
+  ]
+}
